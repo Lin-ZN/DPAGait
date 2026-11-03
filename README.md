@@ -1,4 +1,4 @@
-# 🏃‍♂️ DPGait: Dynamic Pose-Knowledge-Aware Network for Robust Gait Recognition in the Wild
+# 🏃‍♂️ DPAGait: Dynamic Pose-Knowledge-Aware Network for Robust Gait Recognition in the Wild
 **📌 Code will be released upon paper acceptance.**
 
 ---
@@ -7,7 +7,7 @@
 
 This repository will contain the official implementation of:
 
-**DPGait: Dynamic Pose-Knowledge-Aware Network for Robust Gait Recognition in the Wild**
+**DPAGait: Dynamic Pose-Knowledge-Aware Network for Robust Gait Recognition in the Wild**
 
 
 > 🚧 The source code and instructions for reproducing results will be released once the paper is accepted.
